@@ -7,3 +7,4 @@
   - database & ORM
     - MySQL & sequelize(v6.6.2)
     
+iroiromemo
